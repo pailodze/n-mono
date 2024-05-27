@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+    width: 100%;
+}
+
+.infoWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.infoWrapper  {
+    font-size: 16px;
+    color: #808080;
+}
+
+.infoWrapper span {
+    font-weight: 400;
+}
+
+.infoWrapper h2 {
+    font-weight: 700;
+}
